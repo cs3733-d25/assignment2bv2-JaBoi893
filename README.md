@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JNHhdQGs)
 # Assignment 2B - React Web Pages
+<<<<<<< HEAD
 *DUE: Tuesday, April 2 by 11:59pm, but we will accept the assignment until April 3 at 11:59pm without penalty, if you need the extra day.  
 
 **Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!**
@@ -7,6 +8,15 @@
 ### Name: 
 ---
 Use this assignment to get up to speed with React.js using the Webstorm IDE, and using Git with another person. When you have completed the assignment, make sure to push your repository to your assignment2b github repository. 
+=======
+*DUE: Tuesday, April 2 by 11:59pm, but we will accept the assignment until April 3 at 11:59pm without penalty, if you need the extra day.
+
+**Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!**
+### Name: John Perveiler & Thomas Ricci
+### Name: John Perveiler & Thomas Ricci
+---
+Use this assignment to get up to speed with React.js using the Webstorm IDE, and using Git with another person. When you have completed the assignment, make sure to push your repository to your assignment2b github repository.
+>>>>>>> cf19fe8 (Initial push)
 
 Create a blank Vite React.js project in Webstorm with Typescript enabled:  
 Webstorm -> New Project -> Vite -> Template: react -> check Use TypeScript Template
@@ -24,8 +34,13 @@ Use the App.css stylesheet for all components, except create a list.css and with
 
 ## Assignment Details
 * Use Webstorm to clone this repository on your computer.
+<<<<<<< HEAD
   * Close any currently open projects.
   * Click on `Get from VCS` and enter the URL of your GitHub assignment2b repo
 
 
 
+=======
+    * Close any currently open projects.
+    * Click on `Get from VCS` and enter the URL of your GitHub assignment2b repo
+>>>>>>> cf19fe8 (Initial push)
