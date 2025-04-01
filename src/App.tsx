@@ -8,7 +8,7 @@ function App () {
     return (
         <>
             <Title />
-            <Intro />
+            <Intro names={[ "John Perveiler", "Thomas Ricci" ]} />
             <Hobby1 />
             <Hobby2 />
         </>

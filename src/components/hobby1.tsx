@@ -1,10 +1,11 @@
+import bloonsLogo from "../assets/BloonsTD6Logo.jpg";
 
 function Hobby1 () {
     return (
         <>
             <h2>Bloons TD 6</h2>
 
-            <img src="/public/BloonsTD6Logo.jpg" alt="Bloons TD6 Logo" />
+            <img src={bloonsLogo} alt="Bloons TD6 Logo" />
 
             <p>
                 Bloons TD6 is the sixth installment in Ninja Kiwi's running Bloons series.
